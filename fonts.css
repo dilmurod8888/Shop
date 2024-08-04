@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'SemiBoldItalic';
+    src: url(./fonts/Inter_24pt-SemiBoldItalic.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'SemiBoldItalic4';
+    src: url(./fonts/Inter_18pt-SemiBoldItalic.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Regular';
+    src: url(./fonts/Inter_18pt-Regular.ttf);
+    font-weight: 400;
+}
